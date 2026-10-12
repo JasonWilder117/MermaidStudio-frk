@@ -85,13 +85,13 @@
     "jsdom": "^29.1.1",
     "lighthouse": "^13.4.0",
     "lint-staged": "^17.0.8",
-    "postcss": "^8.5.16",
+    "postcss": "^8.5.23",
     "prettier": "^3.9.4",
     "rollup-plugin-visualizer": "^7.0.1",
     "tailwindcss": "^4.3.2",
     "typescript": "^6.0.3",
     "vite": "^8.1.2",
-    "vitest": "^4.1.9",
+    "vitest": "^5.0.4",
     "vitest-canvas-mock": "^1.1.4"
   },
   "lint-staged": {
